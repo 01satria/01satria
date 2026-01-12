@@ -13,6 +13,7 @@ A lifelong learner dedicated to bridging global trends with the logic of code an
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=01satria&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ---
+[![Profile Views](https://komarev.com/ghpvc/?username=01satria&label=Profile%20views&color=000000&style=flat)](https://github.com/shantant/me)
 [![](https://visitcount.itsvg.in/api?id=01satria&icon=0&color=1)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
