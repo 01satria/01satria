@@ -1,19 +1,182 @@
-# 💫 About Me:
-A lifelong learner dedicated to bridging global trends with the logic of code and data. I specialize in building integrated, secure systems that are resilient and future-proof.
+<div align="center">
 
+<!-- ANIMATED HEADER BANNER -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=120&section=header&animation=fadeIn"/>
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/satria.page/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:satriabagusw2018@gmail.com) 
+<!-- GLITCH NAME TITLE -->
+```
+ ░██████╗░█████╗░████████╗██████╗░██╗░█████╗░
+ ██╔════╝██╔══██╗╚══██╔══╝██╔══██╗██║██╔══██╗
+ ╚█████╗░███████║░░░██║░░░██████╔╝██║███████║
+ ░╚═══██╗██╔══██║░░░██║░░░██╔══██╗██║██╔══██║
+ ██████╔╝██║░░██║░░░██║░░░██║░░██║██║██║░░██║
+ ╚═════╝░╚═╝░░╚═╝░░░╚═╝░░░╚═╝░░╚═╝╚═╝╚═╝░░╚═╝
+```
 
-# 💻 Tech Stack:
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![Erlang](https://img.shields.io/badge/Erlang-white.svg?style=for-the-badge&logo=erlang&logoColor=a90533) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Code-Igniter](https://img.shields.io/badge/CodeIgniter-%23EF4223.svg?style=for-the-badge&logo=codeIgniter&logoColor=white) ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![Nodemon](https://img.shields.io/badge/NODEMON-%23323330.svg?style=for-the-badge&logo=nodemon&logoColor=%BBDEAD) ![OpenGL](https://img.shields.io/badge/OpenGL-%23FFFFFF.svg?style=for-the-badge&logo=opengl) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Web3.js](https://img.shields.io/badge/web3.js-F16822?style=for-the-badge&logo=web3.js&logoColor=white) ![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white) ![Meta](https://img.shields.io/badge/Meta-%230467DF.svg?style=for-the-badge&logo=Meta&logoColor=white) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white) ![TOR](https://img.shields.io/badge/tor-%237E4798.svg?style=for-the-badge&logo=tor-project&logoColor=white) ![Raspberry Pi](https://img.shields.io/badge/-Raspberry_Pi-C51A4A?style=for-the-badge&logo=Raspberry-Pi) ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=01satria&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=01satria&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=01satria&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=1200&color=A78BFA&center=true&vCenter=true&width=700&lines=System+Architect+%7C+Code+%2B+Security+%2B+Data;Building+Resilient+%26+Future-Proof+Systems;Bridging+Global+Trends+with+Logic+%26+Code;Full-Stack+%7C+Cloud+%7C+Embedded+%7C+Web3" alt="Typing SVG" />
+</a>
+
+<br/>
+
+<!-- PROFILE VIEWS + VISIT COUNTER -->
+<img src="https://komarev.com/ghpvc/?username=01satria&label=NEURAL+UPLINKS&color=7c3aed&style=for-the-badge" />
+&nbsp;
+[![](https://visitcount.itsvg.in/api?id=01satria&icon=6&color=7)](https://visitcount.itsvg.in)
+
+</div>
 
 ---
-[![Profile Views](https://komarev.com/ghpvc/?username=01satria&label=Profile%20views&color=000000&style=flat)](https://github.com/shantant/me)
-[![](https://visitcount.itsvg.in/api?id=01satria&icon=0&color=1)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<img align="right" width="380" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
+
+### `> INITIATING PROFILE SEQUENCE...` 🔐
+
+```yaml
+╔══════════════════════════════════════╗
+║  OPERATOR    : Satria Bagus          ║
+║  CODENAME    : 01satria              ║
+║  CLEARANCE   : FULL STACK           ║
+║  BASE        : Indonesia 🇮🇩         ║
+║  DIRECTIVE   : Build what matters   ║
+║  STATUS      : ONLINE ✅            ║
+╚══════════════════════════════════════╝
+```
+
+```python
+class SatriaOS:
+    def __init__(self):
+        self.mission   = "Bridge global trends with code & data"
+        self.specialty = ["Secure Systems", "Resilient Architecture",
+                          "Full-Stack Dev", "Data Engineering"]
+        self.mindset   = "Lifelong Learner. Always shipping."
+        self.coffee    = float('inf')
+
+    def current_focus(self):
+        return [
+            "🔐 Building integrated, future-proof systems",
+            "🌐 Exploring Web3 & decentralized architectures",
+            "🤖 Applied ML & intelligent automation",
+            "⚡ High-performance embedded & cloud systems"
+        ]
+```
+
+<br clear="right"/>
+
+---
+
+## `> TECH STACK MATRIX` 💻
+
+<div align="center">
+
+### ⚡ LANGUAGES
+![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![Erlang](https://img.shields.io/badge/Erlang-a90533?style=for-the-badge&logo=erlang&logoColor=white)
+
+### 🚀 FRAMEWORKS & RUNTIME
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-8511FA?style=for-the-badge&logo=bootstrap&logoColor=white)
+![CodeIgniter](https://img.shields.io/badge/CodeIgniter-EF4223?style=for-the-badge&logo=codeigniter&logoColor=white)
+![Web3.js](https://img.shields.io/badge/Web3.js-F16822?style=for-the-badge&logo=web3.js&logoColor=white)
+
+### ☁️ CLOUD & INFRASTRUCTURE
+![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
+![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white)
+![Netlify](https://img.shields.io/badge/Netlify-000000?style=for-the-badge&logo=netlify&logoColor=00C7B7)
+![WordPress](https://img.shields.io/badge/WordPress-117AC9?style=for-the-badge&logo=WordPress&logoColor=white)
+
+### 🗄️ DATABASES
+![MongoDB](https://img.shields.io/badge/MongoDB-4ea94b?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+
+### 🤖 AI / DATA
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=PyTorch&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+
+### 🛠️ TOOLS & HARDWARE
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![Blender](https://img.shields.io/badge/Blender-F5792A?style=for-the-badge&logo=blender&logoColor=white)
+![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
+![Raspberry Pi](https://img.shields.io/badge/Raspberry_Pi-C51A4A?style=for-the-badge&logo=Raspberry-Pi)
+![GitHub](https://img.shields.io/badge/GitHub-121011?style=for-the-badge&logo=github&logoColor=white)
+![Jira](https://img.shields.io/badge/Jira-0A0FFF?style=for-the-badge&logo=jira&logoColor=white)
+![TOR](https://img.shields.io/badge/TOR_Network-7E4798?style=for-the-badge&logo=tor-project&logoColor=white)
+![OpenGL](https://img.shields.io/badge/OpenGL-FFFFFF?style=for-the-badge&logo=opengl&logoColor=black)
+
+</div>
+
+---
+
+## `> SYSTEM PERFORMANCE METRICS` 📊
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=01satria&theme=midnight-purple&hide_border=true&include_all_commits=true&count_private=true&show_icons=true&title_color=a78bfa&icon_color=7c3aed&text_color=c4b5fd&bg_color=0d0d1a"/>
+&nbsp;&nbsp;
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=01satria&theme=midnight-purple&hide_border=true&include_all_commits=true&count_private=true&layout=compact&title_color=a78bfa&text_color=c4b5fd&bg_color=0d0d1a"/>
+
+<br/>
+
+<img width="70%" src="https://nirzak-streak-stats.vercel.app/?user=01satria&theme=midnight-purple&hide_border=true&ring=7c3aed&fire=a78bfa&currStreakLabel=c4b5fd&background=0d0d1a&dates=7c3aed"/>
+
+</div>
+
+---
+
+## `> ACTIVITY GRAPH` 🌐
+
+<div align="center">
+
+[![Satria's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=01satria&bg_color=0d0d1a&color=a78bfa&line=7c3aed&point=c4b5fd&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+</div>
+
+---
+
+## `> ACHIEVEMENT TROPHIES` 🏆
+
+<div align="center">
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=01satria&theme=radical&no-frame=true&no-bg=true&row=1&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+
+</div>
+
+---
+
+## `> OPEN CHANNELS` 📡
+
+<div align="center">
+
+<a href="https://www.instagram.com/satria.page/">
+  <img src="https://img.shields.io/badge/Instagram-@satria.page-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+</a>
+&nbsp;
+<a href="mailto:satriabagusw2018@gmail.com">
+  <img src="https://img.shields.io/badge/Email-satriabagusw2018@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<br/><br/>
+
+```
+╔═══════════════════════════════════════════════════╗
+║                                                   ║
+║   "I don't just write code.                       ║
+║    I engineer systems that outlive the moment."   ║
+║                                                   ║
+║                              — Satria Bagus       ║
+╚═══════════════════════════════════════════════════╝
+```
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=100&section=footer&animation=fadeIn"/>
+
+</div>
