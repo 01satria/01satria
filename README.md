@@ -8,7 +8,7 @@
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=15&duration=3000&pause=800&color=818CF8&center=true&vCenter=true&width=650&height=40&lines=%E2%96%B8+Building+systems+that+outlive+the+moment;%E2%96%B8+Bridging+global+trends+with+logic+%26+code;%E2%96%B8+Resilient+%2F+Secure+%2F+Future Proof+Architecture;%E2%96%B8+Lifelong+learner.+Always+shipping." alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=15&duration=3000&pause=800&color=818CF8&center=true&vCenter=true&width=650&height=40&lines=%E2%96%B8+Building+systems+that+outlive+the+moment;%E2%96%B8+Bridging+global+trends+with+logic+%26+code;%E2%96%B8+Resilient+%2F+Secure+%2F+Future+Proof+Architecture;%E2%96%B8+Lifelong+learner.+Always+shipping." alt="Typing SVG" />
 
 <br/>
 
