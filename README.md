@@ -1,8 +1,7 @@
 # Hi I'm Satria Bagus 👋
 
 [![Medium Badge](https://img.shields.io/badge/-@satriabagusw2006-000000?style=flat&labelColor=000000&logo=Medium&link=https://medium.com/@satriabagusw2006)](https://medium.com/@satriabagusw2006)
-[![Website Badge](https://img.shields.io/badge/-itssatria-22Czzz?style=flat&logo=Google-Chrome&logoColor=white&link=[https://jessicalim.me](https://itssatria.vercel.app))](https://itssatria.vercel.app)
-[![Twitter Badge](https://img.shields.io/badge/-@__jesslim-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/_jesslim)](https://twitter.com/_jesslim)
+[![Website Badge](https://img.shields.io/badge/-itssatria-006169?style=flat&logo=Google-Chrome&logoColor=white&link=[https://jessicalim.me](https://itssatria.vercel.app))](https://itssatria.vercel.app)
 [![Instagram Badge](https://img.shields.io/badge/-@satria.page-purple?style=flat&logo=instagram&logoColor=white&link=https://instagram.com/satria.page/)](https://instagram.com/satria.page)
 [![Gmail Badge](https://img.shields.io/badge/-satriabagusw2018-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:satriabagusw2018@gmail.com)](mailto:satriabagusw2018@gmail.com)
 
