@@ -1,6 +1,6 @@
 <div align="center">
 
-<h1 valign="middle">Hi I'm Satria Bagus <img src="subaru.gif" width="70" valign="middle"/> 
+<h1 valign="middle">Hi I'm Satria Bagus <img src="subaru.gif" width="60" valign="middle"/> 
 </h1>
 
 <p align="center">
