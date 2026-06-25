@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi I'm Satria Bagus 👋
+# Hi I'm Satria Bagus
 
 <p align="center">
   <a href="https://medium.com/@satriabagusw2006"><img src="https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=Medium&logoColor=white" alt="Medium Badge"/></a>
