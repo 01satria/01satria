@@ -16,7 +16,7 @@
 <br />
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,react,graphql,nodejs&theme=dark" alt="Tech Stack" />
+  <img src="https://skillicons.dev/icons?i=kotlin,js,ts,react,python&theme=dark" alt="Tech Stack" />
 </p>
 
 <br />
