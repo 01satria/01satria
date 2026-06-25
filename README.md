@@ -10,7 +10,7 @@
 </p>
 
 <p align="center">
-  <em>I'm a man from Indonesia, aspiring <a href="https://medium.com/@satriabagusw2006">writer</a>, part-time coder and full-time adventure seeker.Thanks for visiting and I'd love to <a href="https://itssatria.vercel.app">connect</a>!</em>
+  <em>I'm a man from Indonesia. Aspiring <a href="https://medium.com/@satriabagusw2006">writer</a>, part-time coder and full-time adventure seeker.Thanks for visiting and I'd love to <a href="https://itssatria.vercel.app">connect</a>!</em>
 </p>
 
 <br />
