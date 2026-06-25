@@ -22,6 +22,7 @@
     </td>
     <td valign="middle" align="center" style="border-color: transparent; border: none; background: transparent;">
       <img src="https://skillicons.dev/icons?i=kotlin,js,ts,react,python&theme=dark" alt="Tech Stack" />
+      <br />
       <a href="https://github.com/01satria"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=01satria&layout=compact&theme=transparent&title_color=ffffff&hide_title=true&hide_border=true" alt="Top Languages" /></a>
     </td>
   </tr>
