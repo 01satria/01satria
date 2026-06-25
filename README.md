@@ -1,6 +1,6 @@
 <div align="center">
 
-<h1><font size="9">Hi I'm Satria Bagus</font></h1>
+<h1>Hi I'm Satria Bagus</h1>
 
 <p align="center">
   <a href="https://medium.com/@satriabagusw2006"><img src="https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=Medium&logoColor=white" alt="Medium Badge"/></a>
@@ -21,8 +21,9 @@
       <a href="https://github.com/01satria"><img src="https://github-readme-stats.vercel.app/api?username=01satria&show_icons=true&include_all_commits=true&theme=transparent&text_color=ffffff&hide_title=true&hide_border=true" alt="Satria's github stats" /></a>
     </td>
     <td valign="middle" align="center" style="border-color: transparent; border: none; background: transparent;">
+      <br/>
       <img src="https://skillicons.dev/icons?i=kotlin,js,ts,react,python&theme=dark" alt="Tech Stack" />
-      <br />
+      <br/>
       <a href="https://github.com/01satria"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=01satria&layout=compact&theme=transparent&title_color=ffffff&hide_title=true&hide_border=true" alt="Top Languages" /></a>
     </td>
   </tr>
