@@ -10,20 +10,21 @@
 </p>
 
 <p align="center">
-  <em>I'm a man from Indonesia. Aspiring <a href="https://medium.com/@satriabagusw2006">writer</a>, part-time coder and full-time adventure seeker.Thanks for visiting and I'd love to <a href="https://itssatria.vercel.app">connect</a>!</em>
+  <em>I'm a man from Indonesia. Aspiring <a href="https://medium.com/@satriabagusw2006">writer</a>, part-time coder and full-time adventure seeker. Thanks for visiting and I'd love to <a href="https://itssatria.vercel.app">connect</a>!</em>
 </p>
 
 <br />
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=kotlin,js,ts,react,python&theme=dark" alt="Tech Stack" />
-</p>
-
-<br />
-
-<p align="center">
-  <a href="https://github.com/01satria"><img src="https://github-readme-stats.vercel.app/api?username=01satria&show_icons=true&include_all_commits=true&theme=transparent&hide_border=true" alt="Satria's github stats" /></a>
-  <a href="https://github.com/01satria"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=01satria&layout=compact&theme=transparent&hide_border=true" alt="Top Languages" /></a>
-</p>
+<table align="center" style="border-collapse: collapse; border-color: transparent; border: none; background: transparent;">
+  <tr style="border-color: transparent; border: none; background: transparent;">
+    <td valign="middle" align="center" style="border-color: transparent; border: none; background: transparent;">
+      <a href="https://github.com/01satria"><img src="https://github-readme-stats.vercel.app/api?username=01satria&show_icons=true&include_all_commits=true&theme=transparent&text_color=ffffff&hide_title=true&hide_border=true" alt="Satria's github stats" /></a>
+    </td>
+    <td valign="middle" align="center" style="border-color: transparent; border: none; background: transparent;">
+      <img src="https://skillicons.dev/icons?i=kotlin,js,ts,react,python&theme=dark" alt="Tech Stack" />
+      <a href="https://github.com/01satria"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=01satria&layout=compact&theme=transparent&title_color=ffffff&hide_title=true&hide_border=true" alt="Top Languages" /></a>
+    </td>
+  </tr>
+</table>
 
 </div>
