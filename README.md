@@ -1,6 +1,6 @@
 <div align="center">
 
-<h1>Hi I'm Satria Bagus   <img src="https://media.tenor.com/4ljsTvme6UEAAAAi/bubu-dudu-sseeyall.gif" width="50"/> 
+<h1>Hi I'm Satria Bagus    <img src="https://media.tenor.com/H-06J5pSSt4AAAAi/re-zero-natsuki-subaru.gif" width="70"/> 
 </h1>
 
 <p align="center">
