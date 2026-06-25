@@ -19,7 +19,7 @@
 <table align="center" style="border-collapse: collapse; border-color: transparent; border: none; background: transparent;">
   <tr style="border-color: transparent; border: none; background: transparent;">
     <td valign="middle" align="center" style="border-color: transparent; border: none; background: transparent;">
-      <a href="https://github.com/01satria"><img src="https://github-readme-stats.vercel.app/api?username=01satria&show_icons=true&include_all_commits=true&theme=transparent&text_color=ffffff&hide_title=true&hide_border=true&rank_icon=percentile" alt="Satria's github stats" /></a>
+      <a href="https://github.com/01satria"><img src="https://github-readme-stats.vercel.app/api?username=01satria&show_icons=true&include_all_commits=true&theme=transparent&text_color=ffffff&hide_title=true&hide_border=true&rank_icon=percentile" alt="Satria's github statistics" /></a>
     </td>
     <td valign="middle" align="center" style="border-color: transparent; border: none; background: transparent;">
       <br/>
