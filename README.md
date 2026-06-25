@@ -4,7 +4,7 @@
 
 <p align="center">
   <a href="https://medium.com/@satriabagusw2006"><img src="https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=Medium&logoColor=white" alt="Medium Badge"/></a>
-  <a href="https://itssatria.vercel.app"><img src="https://img.shields.io/badge/Website-006169?style=for-the-badge&logo=Google-Chrome&logoColor=white" alt="Website Badge"/></a>
+  <a href="https://itssatria.vercel.app"><img src="https://img.shields.io/badge/Website-006169?style=for-the-badge&logo=googleearth&logoColor=white" alt="Website Badge"/></a>
   <a href="https://instagram.com/satria.page/"><img src="https://img.shields.io/badge/Instagram-73001a?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/></a>
   <a href="mailto:satriabagusw2018@gmail.com"><img src="https://img.shields.io/badge/Gmail-c14438?style=for-the-badge&logo=Gmail&logoColor=white" alt="Gmail Badge"/></a>
 </p>
