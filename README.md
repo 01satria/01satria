@@ -1,3 +1,6 @@
+<!--[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=01satria&data=followers,repositories,stars,commits&theme=darkmode)](https://github.com/Jurredr/github-widgetbox)-->
+
+
 <div align="center">
 
 <h1 valign="middle">Hi I'm Satria Bagus <img src="subaruava.gif" width="60" valign="middle"/> 
@@ -13,7 +16,6 @@
 <p align="center">
   <em>I'm a man from Indonesia. Aspiring <a href="https://medium.com/@satriabagusw2006">writer</a>, part-time coder and full-time adventure seeker. Thanks for visiting and I'd love to <a href="https://kesatria.site">connect</a>!</em>
 </p>
-
 <br />
 
 <table align="center" style="border-collapse: collapse; border-color: transparent; border: none; background: transparent;">
